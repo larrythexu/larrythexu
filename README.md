@@ -1,7 +1,7 @@
 # Hello!
 I'm Lawrence Xu, a software engineer based in The Netherlands.
 Welcome to my GitHub profile! You can find my projects below
-and the stories behind them [here](https://larrythexu.github.io/)!
+and the stories behind them [here](https://larrythexu.github.io/projects/)!
 
 ### Stuff I Mostly Use
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,9 +35,6 @@ and the stories behind them [here](https://larrythexu.github.io/)!
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Contact Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencezongyixu/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lawrencezongyixu@gmail.com)
 
 ---
 
