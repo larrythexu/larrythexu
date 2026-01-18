@@ -42,4 +42,4 @@ and the stories behind them [here](https://larrythexu.github.io/)!
 ---
 
 #### (stuff i do in my free time)
-![buh](https://media1.tenor.com/m/7JvynA37cvwAAAAd/devil-jin-tekken-8.gif)
+![buh](ewgf.gif)
